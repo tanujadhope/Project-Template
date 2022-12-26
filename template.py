@@ -25,7 +25,8 @@ list_of_files=[
     "setup.cfg",
     "tox.ini",
     "main.py",
-    "mkdocs.yaml"
+    "mkdocs.yaml",
+    "README.md"
 ]
 for filepath in list_of_files:
     filepath=Path(filepath)
